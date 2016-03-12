@@ -1941,4 +1941,9 @@
         <object>Employee__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Employee__c.empabout__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>

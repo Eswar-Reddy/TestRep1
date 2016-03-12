@@ -1893,4 +1893,9 @@
     <layoutAssignments>
         <layout>Employee__c-Employee Layout</layout>
     </layoutAssignments>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Employee__c.empabout__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>

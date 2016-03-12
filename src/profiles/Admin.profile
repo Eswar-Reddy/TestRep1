@@ -2469,4 +2469,9 @@
         <enabled>true</enabled>
         <name>ManagePvtRptsAndDashbds</name>
     </userPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Employee__c.empabout__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>
