@@ -14,4 +14,18 @@
         <shortDescription>CustomLabel2</shortDescription>
         <value>cst2</value>
     </labels>
+    <labels>
+        <fullName>CustomLabel3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabel3</shortDescription>
+        <value>CustomLabel3</value>
+    </labels>
+    <labels>
+        <fullName>CustomLabel4</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabel4</shortDescription>
+        <value>CustomLabel4</value>
+    </labels>
 </CustomLabels>

@@ -96,6 +96,7 @@
         <members>NewYearMsg</members>
         <members>Sample</members>
         <members>Sample1</members>
+        <members>Sample2</members>
         <members>Welcome</members>
         <members>WelcomeInfo</members>
         <name>ApexClass</name>
@@ -147,6 +148,7 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Book__c.BookDescriptionFieldName__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -174,6 +176,8 @@
     <types>
         <members>CustomLabel1</members>
         <members>CustomLabel2</members>
+        <members>CustomLabel3</members>
+        <members>CustomLabel4</members>
         <name>CustomLabel</name>
     </types>
     <types>
@@ -186,6 +190,7 @@
         <members>AccountContactRole</members>
         <members>Activity</members>
         <members>Asset</members>
+        <members>Book__c</members>
         <members>CAccobj9__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
