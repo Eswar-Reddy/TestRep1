@@ -28,4 +28,25 @@
         <shortDescription>CustomLabel4</shortDescription>
         <value>CustomLabel4</value>
     </labels>
+    <labels>
+        <fullName>CL1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CL1</shortDescription>
+        <value>CL1</value>
+    </labels>
+    <labels>
+        <fullName>CL2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CL2</shortDescription>
+        <value>CL2</value>
+    </labels>
+    <labels>
+        <fullName>CL4</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CL4</shortDescription>
+        <value>CL44</value>
+    </labels>
 </CustomLabels>

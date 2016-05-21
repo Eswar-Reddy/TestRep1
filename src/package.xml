@@ -89,6 +89,8 @@
         <members>DemoCreateAccount3</members>
         <members>DemoCreateAccount4</members>
         <members>DemoCreateAccount5</members>
+        <members>MSG1</members>
+        <members>MSG2</members>
         <members>MyHelloWorld</members>
         <members>MyWorld</members>
         <members>NewCusomClass</members>
@@ -174,6 +176,9 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>CL1</members>
+        <members>CL2</members>
+        <members>CL4</members>
         <members>CustomLabel1</members>
         <members>CustomLabel2</members>
         <members>CustomLabel3</members>
@@ -237,6 +242,11 @@
     <types>
         <members>CAccobj9__c-en_US</members>
         <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>Book__c</members>
+        <members>Table__c</members>
+        <name>CustomTab</name>
     </types>
     <types>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
