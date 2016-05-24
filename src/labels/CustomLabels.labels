@@ -49,4 +49,11 @@
         <shortDescription>CL4</shortDescription>
         <value>CL44</value>
     </labels>
+    <labels>
+        <fullName>CL6</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CL6</shortDescription>
+        <value>66</value>
+    </labels>
 </CustomLabels>

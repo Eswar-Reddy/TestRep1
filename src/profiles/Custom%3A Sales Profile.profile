@@ -440,6 +440,18 @@
         <apexClass>WelcomeInfo</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>Apx1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>Apx2</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>MSG1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -1609,6 +1621,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Pencil__c.PencilPrice__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Bus__c.BusDesc__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>

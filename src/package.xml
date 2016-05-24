@@ -5,6 +5,8 @@
         <members>Account1</members>
         <members>Account2</members>
         <members>Account3</members>
+        <members>Apx1</members>
+        <members>Apx2</members>
         <members>CreatAc01</members>
         <members>CreatAc010</members>
         <members>CreatAc011</members>
@@ -151,6 +153,7 @@
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Book__c.BookDescriptionFieldName__c</members>
+        <members>Bus__c.BusDesc__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -180,6 +183,7 @@
         <members>CL1</members>
         <members>CL2</members>
         <members>CL4</members>
+        <members>CL6</members>
         <members>CustomLabel1</members>
         <members>CustomLabel2</members>
         <members>CustomLabel3</members>
@@ -197,6 +201,7 @@
         <members>Activity</members>
         <members>Asset</members>
         <members>Book__c</members>
+        <members>Bus__c</members>
         <members>CAccobj9__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
