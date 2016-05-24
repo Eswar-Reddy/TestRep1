@@ -171,6 +171,7 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>Pencil__c.PencilPrice__c</members>
         <members>Table__c.TableCost__c</members>
         <members>Table__c.TableDescription__c</members>
         <name>CustomField</name>
@@ -226,6 +227,7 @@
         <members>Order</members>
         <members>OrderItem</members>
         <members>PartnerRole</members>
+        <members>Pencil__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
