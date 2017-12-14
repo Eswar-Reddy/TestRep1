@@ -2,6 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>39.0</version>
     <types>
+        <members>Ac1111</members>
+        <members>AccCls1</members>
+        <members>AccCls2</members>
+        <members>AccCls3</members>
+        <members>AccCls4</members>
+        <members>AccCls5</members>
         <members>Account1</members>
         <members>Account2</members>
         <members>Account3</members>
@@ -162,6 +168,10 @@
         <members>Contact.Level__c</members>
         <members>CustomSettingListType1Obj__c.CallAvailableTime__c</members>
         <members>CustomSettingListType1Obj__c.Custom_Desc_textarea__c</members>
+        <members>CustomSettingListType1Obj__c.Customer_Email__c</members>
+        <members>CustomSettingListType1Obj__c.Customer_Info_text__c</members>
+        <members>CustomSettingListType1Obj__c.Customer_MobileNumber__c</members>
+        <members>CustomSettingListType1Obj__c.Customer_Phone_Number__c</members>
         <members>Employee__c.empabout__c</members>
         <members>Employee__c.empemail__c</members>
         <members>Goal.OrigGoalId__c</members>
@@ -186,6 +196,9 @@
         <members>CL2</members>
         <members>CL4</members>
         <members>CL6</members>
+        <members>Cls1</members>
+        <members>Cls2</members>
+        <members>Cls3</members>
         <members>CustomLabel1</members>
         <members>CustomLabel2</members>
         <members>CustomLabel3</members>
