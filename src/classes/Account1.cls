@@ -1,10 +1,16 @@
-public Class Account1
-{
-public Account createAccount(String name)  //method to create account
-{
-//Comment1
-Account acc112 = new Account();
-acc112.Name = name;
-return acc112;
-}
+public class Account1 {
+  
+    
+      public Account acc;
+    
+    Public Account1(Apexpages.StandardController controller){
+        acc =new Account() ;
+    }
+    
+    public pageReference Survey(){ 
+       acc.Name=acc.Name;        
+        
+        return null;
+    }
+
 }

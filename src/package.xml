@@ -4,6 +4,16 @@
     <types>
         <members>A100</members>
         <members>A101</members>
+        <members>A21</members>
+        <members>A2222</members>
+        <members>A99</members>
+        <members>ARPTCls1</members>
+        <members>Ac1111</members>
+        <members>AccCls1</members>
+        <members>AccCls2</members>
+        <members>AccCls3</members>
+        <members>AccCls4</members>
+        <members>AccCls5</members>
         <members>Account1</members>
         <members>Account2</members>
         <members>Account3</members>
